@@ -3,13 +3,26 @@
   
     
     <entry>
+      <title><![CDATA[timeline]]></title>
+      <url>/2017/07/14/timeline/</url>
+      <content type="html"><![CDATA[<timeline></timeline>
+
+<h2 id="2017-05-22-20-11"><a href="#2017-05-22-20-11" class="headerlink" title="2017-05-22 20:11"></a>2017-05-22 20:11</h2><blockquote>
+<p>添加功能：时间轴<br>只需要在md文件里面加上一个timeline标签，然后一个标题+内容就可以随心的创造时间轴的页面了<br>hexo功能：如果要在md里写代码只需要加入raw标签即可 <code>content</code><br>隐藏功能：文章中如果把date设置成1900-01-01就可以隐藏页面的时间不显示</p>
+</blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[markdowm]]></title>
       <url>/2017/07/14/markdowm/</url>
       <content type="html"><![CDATA[<p>##引言</p>
 <blockquote>
 <p>一直有建博客和使用MarkDown的想法</p>
 </blockquote>
-<p><a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">markdowm</a></p>
+<p><a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">MarkDowm语法参考</a></p>
 ]]></content>
       
         <categories>
