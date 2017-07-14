@@ -218,7 +218,7 @@ var customSearch;
 		setHeaderMenuPhone();
 		setHeaderSearch();
 		setWaves();
-		InitTongJi;
+		InitTongJi();
 		setScrollReveal();
 		setTocToggle();
 		// getHitokoto();
