@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>洪响斌</title>
+  <title>洪响斌&#39;s_Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hongxiangbin.github.io/"/>
-  <updated>2017-07-14T02:48:05.132Z</updated>
+  <updated>2017-07-14T07:16:39.717Z</updated>
   <id>http://hongxiangbin.github.io/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>markdowm</title>
+    <link href="http://hongxiangbin.github.io/2017/07/14/markdowm/"/>
+    <id>http://hongxiangbin.github.io/2017/07/14/markdowm/</id>
+    <published>2017-07-14T06:38:51.000Z</published>
+    <updated>2017-07-14T07:16:39.717Z</updated>
+    
+    <content type="html"><![CDATA[<p>##引言</p>
+<blockquote>
+<p>一直有建博客和使用MarkDown的想法，</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##引言&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一直有建博客和使用MarkDown的想法，&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="markdown教程" scheme="http://hongxiangbin.github.io/categories/markdown%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="标签1" scheme="http://hongxiangbin.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="http://hongxiangbin.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+      <category term="标签3" scheme="http://hongxiangbin.github.io/tags/%E6%A0%87%E7%AD%BE3/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
