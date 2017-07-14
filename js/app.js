@@ -197,19 +197,6 @@ var customSearch;
 	// 	}
 	// }
 
-	function InitTongJi() {
-        if(location.hostname=='localhost'){
-			return;
-		}
-        var _hmt = _hmt || [];
-        (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?35ad4b4cbee9f46e1171e959d778f224";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(hm, s);
-        })();
-    }
-
 
 	$(function () {
 		//set header
@@ -218,7 +205,6 @@ var customSearch;
 		setHeaderMenuPhone();
 		setHeaderSearch();
 		setWaves();
-		InitTongJi();
 		setScrollReveal();
 		setTocToggle();
 		// getHitokoto();
